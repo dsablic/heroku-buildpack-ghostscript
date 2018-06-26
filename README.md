@@ -1,6 +1,6 @@
 # Heroku Buildpack for Ghostscript
 
-Currently installs Ghostscript 9.22 on Heroku Cedar.
+Currently installs Ghostscript 9.23 on Heroku Cedar.
 
 ## Install
 
